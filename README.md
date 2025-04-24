@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Nuryme!  
-**`Digital Craftsman (Developer/Creator)`**  
+**`Digital Craftsman (Web Developer/Creator)`**  
 
 ### 🚀 About Me  
 I’m a passionate **`[Your Role, e.g., Frontend Developer | UI/UX Enthusiast | Data Scientist]`** who loves building things that live on the internet. My journey in tech is driven by curiosity and a relentless desire to solve problems creatively.  

@@ -40,7 +40,16 @@ I’m a passionate **`[Your Role, e.g., Frontend Developer | UI/UX Enthusiast | 
 - 💼 LinkedIn: https://www.linkedin.com/in/nur-nahar-373154318/
 - ✉️ Email: hello.nurnahar@gmail.com
 
-- ![Nuryme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuryme&show_icons=true&theme=radical)
+- ## 📊 GitHub Stats
+
+[![Nuryme's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuryme&show_icons=true&count_private=true)](https://github.com/nuryme)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nuryme&theme=dark)](https://git.io/streak-stats)
+
+
+
+
+
 
 - <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=nuryme&label=Profile%20Views&color=blueviolet" alt="yourusername" />  

@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Nuryme!  
+# 👋 Hi, I’m Nur Nahar!  
 **`Digital Craftsman (Web Developer/Creator)`**  
 
 ### 🚀 About Me  
-I’m a passionate **`[Your Role, e.g., Frontend Developer | UI/UX Enthusiast | Data Scientist]`** who loves building things that live on the internet. My journey in tech is driven by curiosity and a relentless desire to solve problems creatively.  
+I’m a passionate **`[ MERN Stack Developer | UI/UX Enthusiast ]`** who loves building things that live on the internet. My journey in tech is driven by curiosity and a relentless desire to solve problems creatively.  
 
 
 ### 🛠️ Tech Stack
@@ -43,9 +43,8 @@ I’m a passionate **`[Your Role, e.g., Frontend Developer | UI/UX Enthusiast | 
 
 - ## 📊 GitHub Stats
 
-[![Nuryme's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuryme&show_icons=true&count_private=true)](https://github.com/nuryme)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nuryme&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nuryme)](https://git.io/streak-stats)
 
 
 

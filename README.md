@@ -38,7 +38,7 @@ I’m a passionate **`[ MERN Stack Developer | UI/UX Enthusiast ]`** who loves b
 
 
 ### 📫 Reach Me  
-- 💼 LinkedIn: https://www.linkedin.com/in/nur-nahar-373154318/
+- 💼 LinkedIn: https://www.linkedin.com/in/nurnahar05
 - ✉️ Email: hello.nurnahar@gmail.com
 
 - ## 📊 GitHub Stats

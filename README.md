@@ -4,6 +4,8 @@
 ### 🚀 About Me  
 I’m a passionate **`[ MERN Stack Developer | UI/UX Enthusiast ]`** who loves building things that live on the internet. My journey in tech is driven by curiosity and a relentless desire to solve problems creatively.  
 
+### Portfolio: https://nur-nahar-portfolio.netlify.app
+
 
 ### 🛠️ Tech Stack
 

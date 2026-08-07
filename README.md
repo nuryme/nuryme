@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Nur Nahar!  
-**`Digital Craftsman (Web Developer/Creator)`**  
+**`Digital Craftsman (Web Developer/Software Developer)`**  
 
 ### 🚀 About Me  
 I’m a passionate **`[ MERN Stack Developer | UI/UX Enthusiast ]`** who loves building things that live on the internet. My journey in tech is driven by curiosity and a relentless desire to solve problems creatively.  
